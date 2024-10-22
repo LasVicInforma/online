@@ -1,9 +1,9 @@
 const cacheName = "Las Victorias-LasVicInforma-1.0.2";
 const contentToCache = [
-    "Build/LasVic222.loader.js",
-    "Build/LasVic222.framework.js",
-    "Build/LasVic222.data",
-    "Build/LasVic222.wasm",
+    "Build/LasVic-2.loader.js",
+    "Build/LasVic-2.framework.js",
+    "Build/LasVic-2.data",
+    "Build/LasVic-2.wasm",
     "TemplateData/style.css"
 
 ];
